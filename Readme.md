@@ -76,4 +76,4 @@ CLI Commands → Service Factory → Embed Service → AI Client → LLM API
 
 ---
 
-\*This project enhances Keploy's testing capabilities by adding intelligent codebase understanding, making test generation more context-aware and developer-
+\*This project enhances Keploy's testing capabilities by adding intelligent codebase understanding, making test generation more context-aware and developer-friendly.
